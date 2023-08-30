@@ -17,7 +17,7 @@ I live in Colchester with my wife and twin daughters.
 I do these for fun.
 
 #### Colchester Bike Kitchen
-I founded CBK in 2015 with Pam Nelson and Stuart Welham (both sadly no longer with us) with the aim of providing a service where people could learn to look after their own bikes, or make use of tools they may not own themselves.
+I founded CBK in 2015 with Pam Nelson and Stuart Welham (both sadly no longer with us) with the aim of providing a service to empower people to look after their own bikes, or make use of tools they may not own themselves.
 
 Since then CBK has become bigger than we'd have ever dared to dream and is now run by myself and Phin Wenlock, staffed by a volunteer team of 10 mechanics. We have a large city centre workshop stocked with amazing tools, offer bi-weekly drop-in sessions and regular classes - we are totally rushed off our feet!
 
