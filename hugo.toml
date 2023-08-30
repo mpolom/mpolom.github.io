@@ -1,0 +1,41 @@
+title = "Michael Polom"
+baseURL = "https://pmmik.es"
+theme = "researcher"
+disableKinds = ["taxonomy", "term"]
+enableEmoji = true
+math = false          # enable KaTeX (https://katex.org/) globally
+googleAnalytics = ""  # add your tracking id
+
+[params]
+  author = "Michael Polom"
+  description = "Bike Idiot."
+  favicon = "favicon.ico"  # path to a .ico to use as favicon
+  logo = ""  # url or path to a logo to put in the header
+  [params.footer]
+    text = "🛠️"
+    url = "http://colchbk.org.uk/membership"
+  [params.style]  # appearance options (can be omitted)
+    fontFamily = "Inconsolata"
+    fontSize = "16pt"
+    pageWidth = "750px"
+    avatarSize = "90px"
+    colorBlack = "#222222"
+    colorRed = "#CF3E2D"
+  [[params.socialIcons]]
+    icon = "fab fa-twitter"
+    title = "Twitter"
+    url = "https://twitter.com/"
+  [[params.socialIcons]]
+    icon = "fab fa-instagram"
+    title = "instagram"
+    url = "https://www.instagram.com/hugsparty/"    
+  [[params.socialIcons]]
+    icon = "fab fa-linkedin"
+    title = "linkedIn"
+    url = "https://www.linkedin.com/in/michaepolom/"
+ 
+[permalinks]
+  "/" = "/:filename"
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files
