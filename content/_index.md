@@ -51,7 +51,8 @@ Since then, 52 organisations and over 500 individuals have signed the charter. [
 ---
 
 ## Past work
-Various things i've done in the past. Some for money, some not.
+Various things i've done in the past. Some for money, some not.   
+If you'd like to pay me to do anything like this for *you*, slide into my DMs.
 
 [Creative Co-op](https://creative.coop)   
 [Re~Cycle, Bikes to Africa](https://re-cycle.org/)  
