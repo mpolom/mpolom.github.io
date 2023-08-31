@@ -53,9 +53,11 @@ Since then, 52 organisations and over 500 individuals have signed the charter. [
 ## Past work
 Various things i've done in the past. Some for money, some not.
 
+[Creative Co-op](https://creative.coop)   
 [Re~Cycle, Bikes to Africa](https://re-cycle.org/)  
 [Colchester Bike Jumble](http://colchbk.org.uk/jumble)  
 [The Waiting Room](https://www.instagram.com/stbotolphs_/)  
+[Blackwater Polytechnic](https://blackwaterpolytechnic.com/)   
 [Good For Nothing](https://www.goodfornothing.com/chapter/colchester)  
 [Gather Bars](https://www.gatherbars.com/)  
 [Chapeau Velo](https://twitter.com/chapeauvelo)  
