@@ -7,7 +7,6 @@ title = "About"
 **Bike Idiot.**
 
 *"active travel behaviour change professional"*  
-([My day job](https://www.linkedin.com/in/michaepolom/))
 
 Co-founder of [Colchester Bike Kitchen](https://colchbk.org.uk)
 
@@ -35,9 +34,9 @@ I've also somehow become the de-facto social secretary; regularly showing races 
 ---
 
 #### Colchester Cycling Campaign
-I've been a member of CCC for about 15 years with varying levels of activity. I joined the committee in 2020. We campaign and lobby for safer cycling infrastructure and environments for everyone regardless of age, ability or anything else.
+I've been a member of CCC for about 15 years with varying levels of activity, currently taking a bit of a back seat.  They campaign and lobby for safer cycling infrastructure and environments for everyone regardless of age, ability or anything else.
 
-It's not all moaning and letter writing though - we get involved in path clearing, join and promote family rides and generally like to have a nice time on our bikes.
+It's not all moaning and letter writing though - they get involved in path clearing, join and promote family rides and generally like to have a nice time on our bikes.
 
 If you think that sounds interesting, you should [join](https://colchester-cycling.org).
 
