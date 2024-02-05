@@ -1,3 +1,4 @@
+
 [submodule "themes/researcher"]
 	path = themes/researcher
-	url = https://github.com/ojroques/hugo-researcher.git
+	url = https://github.com/mpolom/hugo-researcher.git
