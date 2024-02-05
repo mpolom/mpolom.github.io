@@ -35,7 +35,7 @@ I've also somehow become the de-facto social secretary; regularly showing races 
 ---
 
 #### Colchester Cycling Campaign
-I've been a member of CCC for about 15 years with varying levels of activity. I joined the committee in 2020. We campaign and lobby for safer cycling infrastructure and environments for everyone regardless of age, ability or anything else.
+I've been a member of CCC for about 15 years with varying levels of activity. I'm currently taking a bit of a back seat. They lobby for safer cycling infrastructure and environments for everyone regardless of age, ability or anything else.
 
 It's not all moaning and letter writing though - we get involved in path clearing, join and promote family rides and generally like to have a nice time on our bikes.
 
