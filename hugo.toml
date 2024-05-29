@@ -22,10 +22,6 @@ googleAnalytics = ""  # add your tracking id
     colorBlack = "#222222"
     colorRed = "#CF3E2D"
   [[params.socialIcons]]
-    icon = "fab fa-twitter"
-    title = "Twitter"
-    url = "https://twitter.com/"
-  [[params.socialIcons]]
     icon = "fab fa-instagram"
     title = "instagram"
     url = "https://www.instagram.com/hugsparty/"    
