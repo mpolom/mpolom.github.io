@@ -2,7 +2,7 @@
 title = "Michael Polom - Bike Idiot"
 +++
 
-{{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
+{{< figure class="avatar" src="/avatar.webp" alt="avatar">}}
 
 **Bike Idiot.**
 
