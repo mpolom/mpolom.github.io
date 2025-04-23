@@ -19,7 +19,7 @@ I do these for fun.
 #### Colchester Bike Kitchen
 I founded CBK in 2015 with Pam Nelson and Stuart Welham (both sadly no longer with us) with the aim of providing a service where people could learn to look after their own bikes, or make use of tools they may not own themselves.
 
-Since then CBK has become bigger than we'd have ever dared to dream and is now run by myself and Phin Wenlock, staffed by a volunteer team of 10 mechanics. We have a large city centre workshop stocked with amazing tools, offer bi-weekly drop-in sessions and regular classes - we are totally rushed off our feet!
+Since then CBK has become bigger than we'd have ever dared to dream and is now run by a small steering commitee and staffed by a volunteer team of 18 mechanics. We have a large city centre workshop stocked with amazing tools, offer bi-weekly drop-in sessions and regular classes - we are totally rushed off our feet!
 
 [Somehow this is still just a hobby](https://colchesterbikekitchen.org.uk).
 
@@ -34,27 +34,18 @@ I've also somehow become the de-facto social secretary; regularly showing races 
 
 ---
 
-#### Colchester Cycling Campaign
-I've been a member of CCC for about 15 years with varying levels of activity. I'm currently taking a bit of a back seat. They lobby for safer cycling infrastructure and environments for everyone regardless of age, ability or anything else.
-
-It's not all moaning and letter writing though - we get involved in path clearing, join and promote family rides and generally like to have a nice time on our bikes.
-
-If you think that sounds interesting, you should [join](https://colchester-cycling.org).
-
----
-
 #### Colchester Cycling Charter
-An offshoot of our campaigning work. In 2019 we created the Charter as a way for residents, businesses, organisations and schools to show their support for the positive benefits cycling can bring to Colchester. 
+In 2019 we created the Charter as a way for residents, businesses, organisations and schools to show their support for the positive benefits cycling can bring to Colchester. 
 
 Since then, 52 organisations and over 500 individuals have signed the charter. [You should too](https://colchestercyclingcharter.org.uk/).
 
 ---
 
 ## Past work
-Various things i've done in the past. Some for money, some not.   
+Various things i've done in the past and organisations i've worked with/for. Some for money, some not.   
 If you'd like to pay me to do anything like this for *you*, slide into my DMs.
 
-[Creative Co-op](https://creative.coop)   
+[Colchester Cycling Campaign](https://www.colchester-cycling.org.uk)
 [Re~Cycle, Bikes to Africa](https://re-cycle.org/)  
 [Colchester Bike Jumble](http://colchbk.org.uk/jumble)  
 [The Waiting Room](https://www.instagram.com/stbotolphs_/)  
@@ -62,4 +53,5 @@ If you'd like to pay me to do anything like this for *you*, slide into my DMs.
 [Good For Nothing](https://www.goodfornothing.com/chapter/colchester)  
 [Gather Bars](https://www.gatherbars.com/)  
 [Chapeau Velo](https://twitter.com/chapeauvelo)  
+[Creative Co-op](https://creative.coop)   
 [Colchester ALLEYCAT](https://chapeauvelo-blog.tumblr.com/post/82090239127/alleycat-klaxon)  
