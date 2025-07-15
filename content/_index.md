@@ -45,7 +45,7 @@ Since then, 52 organisations and over 500 individuals have signed the charter. [
 Various things i've done in the past and organisations i've worked with/for. Some for money, some not.   
 If you'd like to pay me to do anything like this for *you*, slide into my DMs.
 
-[Colchester Cycling Campaign](https://www.colchester-cycling.org.uk)
+[Colchester Cycling Campaign](https://www.colchester-cycling.org.uk)  
 [Re~Cycle, Bikes to Africa](https://re-cycle.org/)  
 [Colchester Bike Jumble](http://colchbk.org.uk/jumble)  
 [The Waiting Room](https://www.instagram.com/stbotolphs_/)  
