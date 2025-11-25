@@ -1,5 +1,5 @@
 title = "Michael Polom"
-baseURL = "https://pmmik.es"
+baseURL = "https://bichael.uk"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
@@ -15,7 +15,7 @@ googleAnalytics = ""  # add your tracking id
     text = "🛠️"
     url = "http://colchbk.org.uk/membership"
   [params.style]  # appearance options (can be omitted)
-    fontFamily = "Inconsolata"
+    fontFamily = "Rubik"
     fontSize = "16pt"
     pageWidth = "750px"
     avatarSize = "90px"
